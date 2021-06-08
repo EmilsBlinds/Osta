@@ -46,7 +46,7 @@ body {
 .par-mums {
     font-size: 30px;
     position: absolute;
-    top: 39%;
+    margin-top: 30px;
     left: 50%;
     transform: translate(-50%, -50%);
     margin-bottom: 500px;
@@ -55,7 +55,7 @@ body {
 .teksts {
     font-size: 20px;
     position: absolute;
-    top: 51%;
+    margin-top: 145px;
     left: 50%;
     transform: translate(-50%, -50%);
     margin-bottom: 500px;
@@ -70,7 +70,7 @@ body {
     background: black;
     position: absolute;
     opacity: 30%;
-    top: 42%;
+    margin-top: 60px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -101,7 +101,7 @@ a:hover {
 
 .sakums {
     position: absolute;
-    width: 622px;
+    width: 10px;
     height: 169px;
     margin-left: 250px;
     font-family: Arial, Helvetica, sans-serif;
@@ -118,7 +118,7 @@ a:hover {
 }
 .reisi {
     position: absolute;
-    width: 622px;
+    width: 10px;
     height: 169px;
     margin-left: 450px;
     font-family: Arial, Helvetica, sans-serif;
@@ -135,7 +135,7 @@ a:hover {
 }
 .ostas {
     position: absolute;
-    width: 622px;
+    width: 10px;
     height: 169px;
     margin-left: 590px;
     font-family: Arial, Helvetica, sans-serif;
